@@ -1,2 +1,2 @@
 # rps
-rock paper scissors
+just a simple rock paper scissors
